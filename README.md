@@ -1,7 +1,7 @@
 
 # Hello!
 
-My name is Dmitry Bikishov and I'm a software developer/fronutend engineer. I'm from Russia, living in Novosibirsk.
+My name is Dmitry Bikishov and I'm a software developer/frontend engineer. I'm from Russia, living in Samara.
 
 
 
