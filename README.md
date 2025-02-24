@@ -15,14 +15,6 @@
 
 📫 Reach me on **[Telegram](https://t.me/is_bik)**
 
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isbik&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=isbik&theme=radical" />
-</p>
-
 
 ### 🚀 Fun Facts  
 💡 Passionate about UI/UX & app performance optimization  
